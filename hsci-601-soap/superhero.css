@@ -1,8 +1,15 @@
-<html>
-  <head>
-    <title></title>
-    <meta content="">
-    <style></style>
-  </head>
-  <body></body>
-</html>
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+@import url('https://fonts.googleapis.com/css?family=BioRhyme');
+@import url('https://fonts.googleapis.com/css?family=Chelsea+Market');
+body
+{ background-color: coral;
+  /* font-family: "Architects Daughter", Times, serif; */
+  font-family: "BioRhyme", Times, Monospace, serif;
+  /* font-family: "Chelsea Market", Times, Monospace, serif; */
+}
+
+div#no-spidey-sense
+{
+  background-color: coral;
+}
