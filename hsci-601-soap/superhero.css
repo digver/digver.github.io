@@ -1,15 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Amiri');
-@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 @import url('https://fonts.googleapis.com/css?family=BioRhyme');
-@import url('https://fonts.googleapis.com/css?family=Chelsea+Market');
+
 body
 { background-color: coral;
-  /* font-family: "Architects Daughter", Times, serif; */
   font-family: "BioRhyme", Times, Monospace, serif;
-  /* font-family: "Chelsea Market", Times, Monospace, serif; */
+  line-height: 0.9;
 }
 
-div#no-spidey-sense
+div#sundara_link, div#michael
 {
-  background-color: coral;
+  margin-top:2px;
+  margin-bottom:1px;
+  line-height: 0.5;
 }
